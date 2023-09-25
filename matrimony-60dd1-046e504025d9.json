@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "matrimony-60dd1",
+  "private_key_id": "046e504025d97e9fa91821e7ba34d71802ad6618",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDrp1ggaUUOz75C\nFBU00pzx+eR8SUM7Ja75v0wvgnuQilKHIh+Uq/e50ZLHRBJ85ZlCZs8F4PllukQr\nK4cMdBEq6sQIO1uNWtxTuXYwZx8Tcsg6yDkNP7cnGoR2HXd/QXx4wNZk7mhUnlZK\n0arE3YePkDwKXcoCSwqkTBXMy+AdS96Ts9y3/tGPKBOLmWf3p1krhnW01CpSwhVM\nwNXyCM6HBV6GalVBlLbqiJ/ysIlAPFBuxF+NtBY6XJHS1Mvxp+UAF0xdfAGtm4TI\n2IEViiMMdvq5eYS8+LzSR7+e0kBTV8+4GqVcMJYXbV6o5faTKjqq6knqFw6/URHh\nr9shdyGPAgMBAAECggEAOUQDYGz0gTLuszQaKyn7RbpKUgGjut3fdYWNSAZXbLqQ\nb5JVRlW774YEOzRJodxRsBc3u9/9+0CWjD8ZpGcYPOusE6wJBYLNA/OPyxdkL9+2\n1MIPSy7unSwOgH2MqnoJe3axIvnklJudsLTe4NRMuxB75rEABCqkPWTX71qj7boo\nvuLMGtJ8tyQsVQ6OAS7b+EXrnNiemociYYl9F9B97Phl91ftWAHIrgNTg0eoXhaM\nahIHYYnyzn6EzRaUuwIUmoCK6t/l/niw+jk0XeXgN5duMbaYGD8NCxSMWTBgs4wa\noka1w+46gfFFCEvzVE6alLFczW97+C4wFeK1gAe+YQKBgQD9mfWZIB4JM1z4TCvB\num54QSapqpj6pf/UgyoJzd7Hw31BT/fsCbaydxxD6XSFbD5m+3tkBDcnyo669T+/\nv9ASvAS+GJPU1PDPA/PBhD5sb4Cg+Id3p9LXrxpAl1YXu84Rq9+ECQhTJsTEE5kv\nUxfwEEuJkojfSrYJoEvrt/D+mQKBgQDt4e2q3GjX5HFzw/aNtsMyIxYU+RebQg+/\nu1lqWy1fwo/hCNRjoBt5gewYCCebMC33VCA6Er3Vg67Lhfyqb+i84K62FB/Pg0TW\n9skPDbUQDzE34ftQIZpyCwIrQQT8MiDOX4ntCm/huD3CEZpkKfRITPMmVkPNiTXb\nJk7ztU+CZwKBgQDidch+S9LmjmpYA9UTM0MQucUnv4LKWNACWnqAtMlbA7PnTdzr\nd6Ug6wJflqqJtqZm2e1O3ADQ1K3uP7EErunEwQdPJa1lYh4EDthuF4SS2mM325dE\n/6VlGyVLRpkHqpqS5zM6ucIoVrdhDMs/GmmG41ZA7IyzMQkrwWvqe6CGCQKBgE5r\nrbMnCDUr7S7RymT7fCv6Hxx45YxcYd6+P4LtXe70sAPqqkHRlV0gNJnTjmL9phmk\nFR+v7/8Ec0pK+HmjfOFPXKlPxxDc4IPRRYT96tPJfltC11uaSFUSRfvGaoNNbz05\nh7mqOCn8V/ezX+dnYU24eGwKAj4u3p9JaLu06Oo/AoGAQG6/oDYoSDlpKA83sQqU\nc897KABpyJdZCs98d/b8GqY15OaeriMxyR39Y5qOQb0XGTl7Li5DP4hxYnrRHhNS\nUZ5ZLrGOF2I4ZUgb/Mua/2AuUQAeAFT+ZMfd3ZfsqjeqJspq+vpf9cIaQ4mrYXY+\nwJYKSgbEb1/vrDy688N2kdw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "loanapp@matrimony-60dd1.iam.gserviceaccount.com",
+  "client_id": "106443557483739419801",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/loanapp%40matrimony-60dd1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
