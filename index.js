@@ -2,7 +2,6 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const mongoose = require("./Database/DatabaseConnection.js");
-const SignRoute = require("./routes/Sign.js");
 const multerGoogleStorage = require('multer-cloud-storage');
 const multer = require('multer');
 
@@ -13,7 +12,8 @@ app.use(express.json());
 app.use("/ImageUpload", express.static("./ImageUpload"));
 
 
-app.use("/api", SignRoute);
+app.use("/api", require("./routes/Sign.js"));
+app.use("/api", require("./routes/Login.js"));
 
 // List all files in the bucket
 // async function listFiles() {

@@ -1,7 +1,7 @@
 const router = require("express").Router();
 const express = require("express");
 const app=express();
-const SignController = require("../controller/Signcontroller.js");
+const {SignController} = require("../controller/Signcontroller.js");
 var multer = require("multer");
 // var multerGoogleStorage = require("multer-cloud-storage");
 const upload = multer({ dest: 'ImageUpload/' })
@@ -22,6 +22,6 @@ const upload = multer({ dest: 'ImageUpload/' })
 //   });
 
 
-router.post("/sign", upload.single("file"), SignController);
+router.post("/sign", SignController);
 
 module.exports = router;
